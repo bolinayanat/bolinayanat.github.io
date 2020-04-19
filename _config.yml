@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Popi匿名提问箱",
-        href: "http://www.popiask.cn/oMY7Qr"
+        href: "www.popiask.cn/oMY7Qr"
     
     }
 ]
